@@ -1,0 +1,5 @@
+{
+  "name": "OmniTask Manager",
+  "description": "A comprehensive task management system with calendar views, detailed task tracking, remarks, notes, and exportable reports.",
+  "requestFramePermissions": []
+}
